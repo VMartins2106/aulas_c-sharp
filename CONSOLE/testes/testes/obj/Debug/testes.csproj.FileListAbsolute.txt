@@ -1,0 +1,8 @@
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Exercicios\testes\testes\bin\Debug\testes.exe.config
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Exercicios\testes\testes\bin\Debug\testes.exe
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Exercicios\testes\testes\bin\Debug\testes.pdb
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Exercicios\testes\testes\obj\Debug\testes.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Exercicios\testes\testes\obj\Debug\testes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Exercicios\testes\testes\obj\Debug\testes.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Exercicios\testes\testes\obj\Debug\testes.exe
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Exercicios\testes\testes\obj\Debug\testes.pdb

@@ -1,0 +1,35 @@
+C:\Users\Etec Franco da Rocha\source\repos\Projeto_academia\Projeto_academia\bin\Debug\Projeto_academia.exe.config
+C:\Users\Etec Franco da Rocha\source\repos\Projeto_academia\Projeto_academia\bin\Debug\Projeto_academia.exe
+C:\Users\Etec Franco da Rocha\source\repos\Projeto_academia\Projeto_academia\bin\Debug\Projeto_academia.pdb
+C:\Users\Etec Franco da Rocha\source\repos\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.csproj.AssemblyReference.cache
+C:\Users\Etec Franco da Rocha\source\repos\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Etec Franco da Rocha\source\repos\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.Properties.Resources.resources
+C:\Users\Etec Franco da Rocha\source\repos\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.Form1.resources
+C:\Users\Etec Franco da Rocha\source\repos\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.csproj.GenerateResource.cache
+C:\Users\Etec Franco da Rocha\source\repos\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.csproj.CoreCompileInputs.cache
+C:\Users\Etec Franco da Rocha\source\repos\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.exe
+C:\Users\Etec Franco da Rocha\source\repos\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.pdb
+C:\Users\Etec Franco da Rocha\Desktop\Projeto_academia\Projeto_academia\bin\Debug\Projeto_academia.exe.config
+C:\Users\Etec Franco da Rocha\Desktop\Projeto_academia\Projeto_academia\bin\Debug\Projeto_academia.exe
+C:\Users\Etec Franco da Rocha\Desktop\Projeto_academia\Projeto_academia\bin\Debug\Projeto_academia.pdb
+C:\Users\Etec Franco da Rocha\Desktop\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.csproj.AssemblyReference.cache
+C:\Users\Etec Franco da Rocha\Desktop\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Etec Franco da Rocha\Desktop\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.Properties.Resources.resources
+C:\Users\Etec Franco da Rocha\Desktop\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.Form1.resources
+C:\Users\Etec Franco da Rocha\Desktop\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.UI.frmAluno.resources
+C:\Users\Etec Franco da Rocha\Desktop\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.csproj.GenerateResource.cache
+C:\Users\Etec Franco da Rocha\Desktop\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.csproj.CoreCompileInputs.cache
+C:\Users\Etec Franco da Rocha\Desktop\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.exe
+C:\Users\Etec Franco da Rocha\Desktop\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.pdb
+C:\Users\Etec Franco da Rocha\Desktop\PROJETO ACADEMIA\Projeto_academia\Projeto_academia\bin\Debug\Projeto_academia.exe.config
+C:\Users\Etec Franco da Rocha\Desktop\PROJETO ACADEMIA\Projeto_academia\Projeto_academia\bin\Debug\Projeto_academia.exe
+C:\Users\Etec Franco da Rocha\Desktop\PROJETO ACADEMIA\Projeto_academia\Projeto_academia\bin\Debug\Projeto_academia.pdb
+C:\Users\Etec Franco da Rocha\Desktop\PROJETO ACADEMIA\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.csproj.AssemblyReference.cache
+C:\Users\Etec Franco da Rocha\Desktop\PROJETO ACADEMIA\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Etec Franco da Rocha\Desktop\PROJETO ACADEMIA\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.Properties.Resources.resources
+C:\Users\Etec Franco da Rocha\Desktop\PROJETO ACADEMIA\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.Form1.resources
+C:\Users\Etec Franco da Rocha\Desktop\PROJETO ACADEMIA\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.UI.frmAluno.resources
+C:\Users\Etec Franco da Rocha\Desktop\PROJETO ACADEMIA\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.csproj.GenerateResource.cache
+C:\Users\Etec Franco da Rocha\Desktop\PROJETO ACADEMIA\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.csproj.CoreCompileInputs.cache
+C:\Users\Etec Franco da Rocha\Desktop\PROJETO ACADEMIA\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.exe
+C:\Users\Etec Franco da Rocha\Desktop\PROJETO ACADEMIA\Projeto_academia\Projeto_academia\obj\Debug\Projeto_academia.pdb

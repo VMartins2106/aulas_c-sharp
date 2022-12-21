@@ -1,0 +1,8 @@
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Exercicios\exercicio_lista2\exercicio_lista2\bin\Debug\exercicio_lista2.exe.config
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Exercicios\exercicio_lista2\exercicio_lista2\bin\Debug\exercicio_lista2.exe
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Exercicios\exercicio_lista2\exercicio_lista2\bin\Debug\exercicio_lista2.pdb
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Exercicios\exercicio_lista2\exercicio_lista2\obj\Debug\exercicio_lista2.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Exercicios\exercicio_lista2\exercicio_lista2\obj\Debug\exercicio_lista2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Exercicios\exercicio_lista2\exercicio_lista2\obj\Debug\exercicio_lista2.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Exercicios\exercicio_lista2\exercicio_lista2\obj\Debug\exercicio_lista2.exe
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Exercicios\exercicio_lista2\exercicio_lista2\obj\Debug\exercicio_lista2.pdb

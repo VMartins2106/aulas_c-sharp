@@ -1,0 +1,8 @@
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Atividade_07-04-2022\Atividade_07-04-2022\obj\Debug\Atividade_07-04-2022.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Atividade_07-04-2022\Atividade_07-04-2022\obj\Debug\Atividade_07-04-2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Atividade_07-04-2022\Atividade_07-04-2022\obj\Debug\Atividade_07-04-2022.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Atividade_07-04-2022\Atividade_07-04-2022\bin\Debug\Atividade_07-04-2022.exe.config
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Atividade_07-04-2022\Atividade_07-04-2022\bin\Debug\Atividade_07-04-2022.exe
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Atividade_07-04-2022\Atividade_07-04-2022\bin\Debug\Atividade_07-04-2022.pdb
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Atividade_07-04-2022\Atividade_07-04-2022\obj\Debug\Atividade_07-04-2022.exe
+C:\Users\Win10\Desktop\ESCOLA E DEVERES\Tecnico - DS\2º Modulo - Curso Tecnico - ETEC\C#\Atividade_07-04-2022\Atividade_07-04-2022\obj\Debug\Atividade_07-04-2022.pdb

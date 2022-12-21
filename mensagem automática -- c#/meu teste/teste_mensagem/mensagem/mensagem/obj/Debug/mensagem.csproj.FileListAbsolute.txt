@@ -1,0 +1,11 @@
+C:\Users\Win10\Desktop\teste_mensagem\mensagem\mensagem\bin\Debug\mensagem.exe.config
+C:\Users\Win10\Desktop\teste_mensagem\mensagem\mensagem\bin\Debug\mensagem.exe
+C:\Users\Win10\Desktop\teste_mensagem\mensagem\mensagem\bin\Debug\mensagem.pdb
+C:\Users\Win10\Desktop\teste_mensagem\mensagem\mensagem\bin\Debug\WindowsInput.dll
+C:\Users\Win10\Desktop\teste_mensagem\mensagem\mensagem\bin\Debug\WindowsInput.xml
+C:\Users\Win10\Desktop\teste_mensagem\mensagem\mensagem\obj\Debug\mensagem.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\teste_mensagem\mensagem\mensagem\obj\Debug\mensagem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win10\Desktop\teste_mensagem\mensagem\mensagem\obj\Debug\mensagem.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\teste_mensagem\mensagem\mensagem\obj\Debug\mensagem.csproj.CopyComplete
+C:\Users\Win10\Desktop\teste_mensagem\mensagem\mensagem\obj\Debug\mensagem.exe
+C:\Users\Win10\Desktop\teste_mensagem\mensagem\mensagem\obj\Debug\mensagem.pdb
